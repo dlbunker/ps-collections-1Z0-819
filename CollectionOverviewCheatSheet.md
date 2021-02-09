@@ -20,4 +20,3 @@ You should be able to answer the following questions about each Collection imple
 |TreeSet   | Set                   | No           | Yes              | No             | Yes             |
 |HashMap   | Map                   | Yes          | No               | Yes            | No              |
 |TreeMap   | Map                   | No           | Yes              | No             | Yes             |
-s
