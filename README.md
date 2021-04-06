@@ -10,5 +10,8 @@ Java Arrays, Collections and Generics require a wide and deep base of knowledge 
 ## List Cheat Sheets
 [List Cheat Sheets](ListCheatSheets.md)
 
+## Queue Cheat Sheets
+[Queue Cheat Sheets](QueueCheatSheets.md)
+
 ## Set Cheat Sheets
 [Set Cheat Sheets](SetCheatSheets.md)

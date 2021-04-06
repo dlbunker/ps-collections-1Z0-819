@@ -2,7 +2,7 @@
 
 | Method        | Return Type          | Parameters                            |
 |---------------|----------------------|---------------------------------------|
-|add()          | boolean              | (E element) or (int index, E element) |
+|add()          | boolean              | (E element)                           |
 |remove()       | boolean              | (Object object)                       |
 |isEmpty()      | boolean              | none                                  |
 |size()         | int                  | none                                  |
